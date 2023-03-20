@@ -19,5 +19,4 @@ const countDown = () => {
     document.querySelector(".countdown__second").innerHTML = textSecond;
     setTimeout(countDown, 1000);
 }
-
 setTimeout(countDown, 1000);
