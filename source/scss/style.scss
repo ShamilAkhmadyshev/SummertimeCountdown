@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 2.6rem;
+    padding: 3rem 1rem 1rem 0.5rem;
 
     &__timer {
         margin: 0 0 3rem;
@@ -25,7 +25,7 @@
     }
 
     &__row {
-        font-size: calc(26.7px + 29 * ((100vw - 320px) / (1280 - 320)));
+        font-size: calc(30px + 29 * ((100vw - 320px) / (1280 - 320)));
         display: flex;
         justify-content: center;
         gap: 4rem;
