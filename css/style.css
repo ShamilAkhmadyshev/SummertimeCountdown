@@ -141,6 +141,9 @@ h1, h2, h3, h4, h5, h6 {
       -ms-flex-align: center;
           align-items: center;
 }
+.countdown__day, .countdown__hour, .countdown__minute, .countdown__second {
+  color: rgb(235, 57, 57);
+}
 .countdown__img img {
   max-width: 50rem;
 }

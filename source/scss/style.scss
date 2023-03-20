@@ -44,16 +44,11 @@
         align-items: center;
     }
 
-    &__day {
-    }
-
-    &__hour {
-    }
-
-    &__minut {
-    }
-
+    &__day,
+    &__hour,
+    &__minute,
     &__second {
+        color: rgb(235, 57, 57);
     }
 
     &__img {
