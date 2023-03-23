@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: calc(58px + 36 * (100vw - 320px) / 960);
 }
 .countdown__row {
-  font-size: calc(30px + 29 * (100vw - 320px) / 960);
+  font-size: calc(26px + 32 * (100vw - 320px) / 960);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
