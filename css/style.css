@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   margin: 0 0 1.5rem 0;
   text-align: center;
-  font-size: calc(64px + 32 * (100vw - 320px) / 960);
+  font-size: calc(58px + 36 * (100vw - 320px) / 960);
 }
 .countdown__row {
   font-size: calc(30px + 29 * (100vw - 320px) / 960);
